@@ -16,5 +16,5 @@ You should create one R script called run_analysis.R that does the following.
 In this assignament you can find:
   1.	run_analysis.R: the script that merge the training and the test data to create one data set.
   2.	Tidy.txt: a tidy data set with the average of each variable for each activity and each subject.
-  3.	README.md: a 
-  4.	CodeBook.md: 
+  3.	README.md: a detailed explanation of the procedures used to obtain the final file (Tidy.txt) and the run_analysis.R script.
+  4.	CodeBook.md: a detailed explanation of the variables used in files Tidy.txt
